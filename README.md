@@ -8,7 +8,7 @@ This is a react frontend application built in preparation for building full stac
 
 ## Backend Source Code
 
-[Source Code](https://github.com/vickymarz/hello-rails-back-end)
+[Source Code](https://github.com/usofaitheloho/hello-rails-back-end)
 
 ## Built With
 - React
@@ -28,7 +28,7 @@ The basic requirements for building the executable are:
 #### Cloning the project
 
 ```
-git clone  https://github.com/vickymarz/hello-react-front-end.git <Your-Build-Directory>
+git clone  https://github.com/usorfaitheloho/hello-react-front-end.git <Your-Build-Directory>
 ```
 ## Getting packages and dependencies
 To get all package modules required to build the project run:
@@ -59,11 +59,11 @@ Feel free to check the [issues page](../../issues/).
 
 ## Authors
 
-👤 **Victor Okoroji**
+👤 **Faith Usor**
 
-- GitHub: [@githubhandle](https://github.com/vickymarz)
-- Twitter: [@twitterhandle](https://twitter.com/Vicky_marz)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/victorebubeokoroji/)
+- GitHub: [@githubhandle](https://github.com/usorfaitheloho)
+- Twitter: [@twitterhandle](https://twitter.com/faith usor)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/usorfaitheloho/)
 
 
 ## Show your support
